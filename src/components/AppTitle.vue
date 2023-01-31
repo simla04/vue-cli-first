@@ -12,3 +12,7 @@ export default {
   name: 'AppTitle',
 }
 </script>
+
+<style>
+
+</style>
